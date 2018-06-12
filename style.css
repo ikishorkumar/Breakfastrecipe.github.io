@@ -3,6 +3,7 @@ video {
     height: auto;
 }
 
+
 /* start of contactus */
 section#contact {
     background-color: #222222;
@@ -123,6 +124,10 @@ section#contact .text-danger {
     font-family: 'Philosopher';
     font-size: 80px; 
 }
+.fnt1{
+    font-family: 'Philosopher';
+    font-size: 20px; 
+}
 /* end of Content */
 
 /*footer css*/
@@ -208,7 +213,7 @@ padding: 0; }
 		font-weight: bold;
 	}
 .srh{
-		margin-left:0%;
+		margin-left:5%;
 		width: 40%;
 		margin-top: 10px;
 

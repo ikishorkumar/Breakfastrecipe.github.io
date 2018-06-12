@@ -35,8 +35,9 @@
 					<li class="active" ><a href="index.php" class="sty">Home</a></li>
 					<li><a href="breakfast.php" class="sty">Breakfast</a></li>
 					<li><a href="contact2.php" class="sty">Contact-Us</a></li>
+					<li><a href="About.php" class="sty">About-Us</a></li>
 				</ul>
-				<li>
+				<li style="list-style: none;">
 					<input placeholder="Search....." type="text" name="search" class="srh">
 					<button class="btn btn-default bt" type="button">Search</button></li>
 	</nav>
@@ -205,9 +206,7 @@
 				<div class="col-sm-12">
 					<div class="about">
 						<img src="images/logo.png" class="img-responsive center-block" alt="">
-						<p>Bootstrap Footer example snippets with CSS, Javascript and HTML. Code example of bootstrap-3 footer using HTML, Javascript,
-							jQuery, and CSS. 5 Beautiful and Responsive Footer Templates. Pin a fixed-height footer to the bottom of the viewport
-							in desktop browsers with this custom HTML and CSS.</p>
+						<p>We are here to help u in recipies and make your life easir to learn how to cock and to know Breakfst recipies </p>
 
 						<div class="social-media">
 							<ul class="list-inline">
@@ -220,59 +219,41 @@
 					</div>
 				</div>
 
+
 				<div class="col-md-3 col-sm-6">
 					<div class="footer-info-single">
 						<h2 class="title">Help Center</h2>
-						<ul class="list-unstyled">
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> How to Pay</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> FAQ's</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Sitemap</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Delivery Info</a></li>
+						<ul id="ttn3" style="    font-weight: bold ; color: white;">
+							<li>Contact: +92344-*******</li>
+							<li>Email:</li>
 						</ul>
 					</div>
 				</div>
 
 				<div class="col-md-3 col-sm-6">
 					<div class="footer-info-single">
-						<h2 class="title">Customer information</h2>
-						<ul class="list-unstyled">
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> About Us</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> FAQ's</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Sell Your Items</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> RSS</a></li>
-						</ul>
+						<h2 class="title"><a href="About.php" title=""><i class="fa fa-angle-double-right"></i> About Us</a></h2>
 					</div>
 				</div>
 
 				<div class="col-md-3 col-sm-6">
 					<div class="footer-info-single">
-						<h2 class="title">Security & privacy</h2>
-						<ul class="list-unstyled">
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Terms Of Use</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Privacy Policy</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Return / Refund Policy</a></li>
-							<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Store Locations</a></li>
-						</ul>
+						<h2 class="title"><a href="contact2.php" title=""><i class="fa fa-angle-double-right"></i> Contact Us</a></h2>
 					</div>
 				</div>
 
 				<div class="col-md-3 col-sm-6">
 					<div class="footer-info-single">
-						<h2 class="title">Payment</h2>
-						<p>Sample HTML page with Twitter's Bootstrap. Code example of Easy Sticky Footer using HTML, Javascript, jQuery, and CSS.
-							This bootstrap tutorial covers all the major elements of responsive</p>
-
+						<h2 class="title"><a href="#" title=""><i class="fa fa-angle-double-right"></i> FAQ's</a></h2>
 					</div>
 				</div>
 			</div>
 		</div>
-
 		<section class="copyright">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6">
-						<p>Copyright © 2017. Your Company.</p>
+						<p>Copyright © 2017. Breakfast Recipe.</p>
 					</div>
 					<div class="col-sm-6"></div>
 				</div>
@@ -280,6 +261,7 @@
 		</section>
 	</footer>
 <!-- End of footer -->
+
 </body>
 
 </html>
