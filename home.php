@@ -27,12 +27,12 @@
         <span class="icon-bar"></span> 
       </button>
 
-				<a href="home.php" class="navbar-brand"><img src="imgg/logo.png" alt="" class="logo"></a>
+				<a href="index.php" class="navbar-brand"><img src="imgg/logo.png" alt="" class="logo"></a>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 
 				<ul class="nav navbar-nav" class="active">
-					<li class="active" ><a href="home.php" class="sty">Home</a></li>
+					<li class="active" ><a href="index.php" class="sty">Home</a></li>
 					<li><a href="breakfast.php" class="sty">Breakfast</a></li>
 					<li><a href="contact2.php" class="sty">Contact-Us</a></li>
 				</ul>

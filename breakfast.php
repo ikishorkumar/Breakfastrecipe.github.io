@@ -24,11 +24,11 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span> 
 				</button>
-				<a href="home.php" class="navbar-brand"><img src="imgg/logo.png" alt="" class="logo"></a>
+				<a href="index.php" class="navbar-brand"><img src="imgg/logo.png" alt="" class="logo"></a>
 			</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav" class="active">
-					<li><a class="sty" href="home.php"  >Home</a></li>
+					<li><a class="sty" href="index.php"  >Home</a></li>
 					<li class="active"><a class="sty" href="#" >Breakfast</a></li>
 					<li><a class="sty" href="contact2.php" >Contact-Us</a></li> </ul>	
 					<li>
