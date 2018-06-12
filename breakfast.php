@@ -24,14 +24,14 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span> 
 				</button>
-				<a href="index.php" class="navbar-brand"><img src="imgg/logo.png" alt="" class="logo"></a>
+				<a href="index.html" class="navbar-brand"><img src="imgg/logo.png" alt="" class="logo"></a>
 			</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav" class="active">
-					<li><a class="sty" href="index.php"  >Home</a></li>
+					<li><a class="sty" href="index.html"  >Home</a></li>
 					<li class="active"><a class="sty" href="#" >Breakfast</a></li>
 					<li><a class="sty" href="contact2.php" >Contact-Us</a></li>
-					<li><a href="About.php" class="sty">About-Us</a></li>
+					<li><a href="About.html" class="sty">About-Us</a></li>
 					</ul>	
 					<li style="list-style: none;">
 						<input class="srh" placeholder="Search....." type="text" name="search" >     	
